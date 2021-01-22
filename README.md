@@ -10,13 +10,12 @@ just run from browser, leave images in images folder!
 open up index.html
 
 ### Support
-check international.cat 
+check my facebook.com/arnodepachter
 
 ### Roadmap
 Would be nice to make a real pacman game from this! 
 
 
-![image of pacman]
-(https://github.com/adepachter/pacman/blob/main/images/PacMan1.png)
+![Image of Yaktocat](https://github.com/adepachter/pacman/blob/main/images/PacMan1.png)
 
 * License information: Code partially by MIT | Xpro, rest from me!
