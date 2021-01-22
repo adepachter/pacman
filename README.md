@@ -15,4 +15,8 @@ check international.cat
 ### Roadmap
 Would be nice to make a real pacman game from this! 
 
+
+![image of pacman]
+(https://github.com/adepachter/pacman/blob/main/images/PacMan1.png)
+
 * License information: Code partially by MIT | Xpro, rest from me!
